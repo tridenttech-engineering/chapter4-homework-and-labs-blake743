@@ -30,7 +30,7 @@ PSP = (static_cast<double>(NSP) / (TP)) * 100;
 PMP = (static_cast<double>(NMP) / (TP)) * 100;
 PLP = (static_cast<double>(NLP) / (TP)) * 100;
 PFP = (static_cast<double>(NFP) / (TP)) * 100;
-cout << "Total Pizzas Sold: " << TP << endl;./
+cout << "Total Pizzas Sold: " << TP << endl;
 cout << "Percentage of Small Pizzas Sold: " << PSP << endl;
 cout << "Percentage of Medium Pizzas Sold: " << PMP << endl;
 cout << "Percentage of Large Pizzas Sold: " << PLP << endl;
